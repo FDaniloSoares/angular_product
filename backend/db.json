@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 5.86
+    },
+    {
+      "id": 2,
+      "name": "Bayblade",
+      "price": 10.86
+    },
+    {
+      "id": 3,
+      "name": "Carteira de Motorista",
+      "price": "2500"
+    },
+    {
+      "name": "Mesa de PC",
+      "price": "100.00",
+      "id": 4
+    }
+  ]
+}
